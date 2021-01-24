@@ -5,3 +5,5 @@ This files was modified locally.
 Another change, this time on January 21st.
 
 This line was added in the feature-2 branch.
+
+Another modification to the feature-2 branch.
